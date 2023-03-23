@@ -24,4 +24,9 @@
     "body": ["import s from './s.css';"],
     "description": "Usual Styles Import"
   },
+	"Add react-icons import": {
+    "prefix": "imi",
+    "body": ["import {} from 'react-icons/';"],
+    "description": "Import react-icons"
+  },
 }
