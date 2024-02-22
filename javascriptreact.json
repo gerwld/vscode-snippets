@@ -14,12 +14,12 @@
 		"description": "Log output to console"
 	}
 */
-  "Add Styles Import": {
+  "Add Module CSS Import": {
     "prefix": "ims",
     "body": ["import s from './s.module.css';"],
     "description": "Styles Import"
   },
-	"Add Usual Styles Import": {
+	"Add CSS Import": {
     "prefix": "imss",
     "body": ["import s from './s.css';"],
     "description": "Usual Styles Import"
