@@ -1,4 +1,4 @@
 ## Installation: 
 ```sh
-Configure User Snippets => javascriptreact.json
+Configure User Snippets => javascriptreact.json 
 ```
