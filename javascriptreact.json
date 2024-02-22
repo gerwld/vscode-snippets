@@ -16,7 +16,7 @@
 */
   "Add Module CSS Import": {
     "prefix": "ims",
-    "body": ["import {* as s} from './s.module.css';"],
+    "body": ["import * as s from './s.module.css';"],
     "description": "Styles Import"
   },
 	"Add CSS Import": {
